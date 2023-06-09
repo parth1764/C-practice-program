@@ -1,6 +1,6 @@
 #include <iostream>
-
-int main() {
-    std::cout << "Hello, World!";
+using name space std;
+int main(){
+    cout<<"hello world\n";
     return 0;
 }
